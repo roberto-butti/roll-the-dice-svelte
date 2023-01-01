@@ -3,3 +3,8 @@
 # My first Svelte component
 
 This is the source code of the article [My first Svelte component](https://dev.to/robertobutti/my-first-svelte-component-5e1k).
+
+- The component file: [src/lib/RollTheDice.svelte](src/lib/RollTheDice.svelte)
+- The HTML file container: [index.html](index.html)
+- Load the component: [src/App.svelte](src/App.svelte)
+- Bind the Svelte App: [src/main.js](src/main.js)
